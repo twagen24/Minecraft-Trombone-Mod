@@ -1,0 +1,28 @@
+{
+    "type": "minecraft:crafting_shaped",
+
+    "pattern":
+    [
+        "GGG",
+        "GMG",
+        "GGG"
+    ],
+
+    "key":
+    {
+        "G":
+        {
+            "item": "minecraft:gold_ingot"
+        },
+        "M":
+        {
+            "item": "trombonemod:mouth_piece"
+        }
+    },
+
+    "result":
+    {
+        "item": "trombonemod:trombone",
+        "count": 1
+    }
+}
