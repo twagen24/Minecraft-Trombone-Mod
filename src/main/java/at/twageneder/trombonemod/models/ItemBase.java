@@ -1,14 +1,13 @@
-package at.twageneder.trombonemod.items;
+package at.twageneder.trombonemod.models;
 
 import at.twageneder.trombonemod.Main;
-import at.twageneder.trombonemod.util.IHasModel;
 import at.twageneder.trombonemod.init.ModItems;
 import net.minecraft.creativetab.CreativeTabs;
 import net.minecraft.item.Item;
 
-public class ItemBase extends Item implements IHasModel {
+public class ItemBase extends Item implements ModelInterface {
 
-    public ItemBase(String name){
+    public ItemBase(String name) {
         super.setUnlocalizedName(name);
         super.setRegistryName(name);
         super.setCreativeTab(CreativeTabs.MATERIALS);

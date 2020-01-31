@@ -9,8 +9,7 @@ import net.minecraftforge.fml.common.event.FMLPreInitializationEvent;
 import org.apache.logging.log4j.Logger;
 
 @Mod(modid = Reference.MOD_ID, name = Reference.NAME, version = Reference.VERSION)
-public class Main
-{
+public class Main {
     private static Logger logger;
 
     @Mod.Instance
@@ -20,17 +19,19 @@ public class Main
     public static CommonProxy proxy;
 
     @Mod.EventHandler
-    public static void preInit(FMLPreInitializationEvent event){
+    public static void preInit(FMLPreInitializationEvent event) {
         logger = event.getModLog();
     }
 
     @Mod.EventHandler
-    public static void init(FMLInitializationEvent event){
-        logger.info("Mod initialised:\t"+Reference.NAME);
+    public static void init(FMLInitializationEvent event) {
+        logger.info("Mod initialised:\t" + Reference.NAME);
+        proxy.registerItemPickupHandler(logger);
+        proxy.registerTromboneSoundHandler(logger);
     }
 
     @Mod.EventHandler
-    public static void postInit(FMLInitializationEvent event){
+    public static void postInit(FMLInitializationEvent event) {
 
     }
 }

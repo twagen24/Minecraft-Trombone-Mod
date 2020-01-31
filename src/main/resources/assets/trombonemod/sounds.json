@@ -1,0 +1,6 @@
+{
+  "chicken": {
+    "category": "block",
+    "sounds": [ "trombonemod:chicken" ]
+  }
+}
