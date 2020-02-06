@@ -1,6 +1,114 @@
 {
-  "chicken": {
+  "f": {
     "category": "block",
-    "sounds": [ "trombonemod:chicken" ]
+    "sounds": [ "trombonemod:f" ]
+  },
+  "ges": {
+    "category": "block",
+    "sounds": [ "trombonemod:ges" ]
+  },
+  "g": {
+    "category": "block",
+    "sounds": [ "trombonemod:g" ]
+  },
+  "as": {
+    "category": "block",
+    "sounds": [ "trombonemod:as" ]
+  },
+  "a": {
+    "category": "block",
+    "sounds": [ "trombonemod:a" ]
+  },
+  "b": {
+    "category": "block",
+    "sounds": [ "trombonemod:b" ]
+  },
+  "h": {
+    "category": "block",
+    "sounds": [ "trombonemod:h" ]
+  },
+  "c0": {
+    "category": "block",
+    "sounds": [ "trombonemod:c0" ]
+  },
+  "des0": {
+    "category": "block",
+    "sounds": [ "trombonemod:des0" ]
+  },
+  "d0": {
+    "category": "block",
+    "sounds": [ "trombonemod:d0" ]
+  },
+  "es0": {
+    "category": "block",
+    "sounds": [ "trombonemod:es0" ]
+  },
+  "e0": {
+    "category": "block",
+    "sounds": [ "trombonemod:e0" ]
+  },
+  "f0": {
+    "category": "block",
+    "sounds": [ "trombonemod:f0" ]
+  },
+  "ges0": {
+    "category": "block",
+    "sounds": [ "trombonemod:ges0" ]
+  },
+  "g0": {
+    "category": "block",
+    "sounds": [ "trombonemod:g0" ]
+  },
+  "as0": {
+    "category": "block",
+    "sounds": [ "trombonemod:as0" ]
+  },
+  "a0": {
+    "category": "block",
+    "sounds": [ "trombonemod:a0" ]
+  },
+  "b0": {
+    "category": "block",
+    "sounds": [ "trombonemod:b0" ]
+  },
+  "h0": {
+    "category": "block",
+    "sounds": [ "trombonemod:h0" ]
+  },
+  "c1": {
+    "category": "block",
+    "sounds": [ "trombonemod:c1" ]
+  },
+  "des1": {
+    "category": "block",
+    "sounds": [ "trombonemod:des1" ]
+  },
+  "d1": {
+    "category": "block",
+    "sounds": [ "trombonemod:d1" ]
+  },
+  "es1": {
+    "category": "block",
+    "sounds": [ "trombonemod:es1" ]
+  },
+  "e1": {
+    "category": "block",
+    "sounds": [ "trombonemod:e1" ]
+  },
+  "f1": {
+    "category": "block",
+    "sounds": [ "trombonemod:f1" ]
+  },
+  "buzz1": {
+    "category": "block",
+    "sounds": [ "trombonemod:buzz1" ]
+  },
+  "buzz2": {
+    "category": "block",
+    "sounds": [ "trombonemod:buzz2" ]
+  },
+  "buzz3": {
+    "category": "block",
+    "sounds": [ "trombonemod:buzz3" ]
   }
 }

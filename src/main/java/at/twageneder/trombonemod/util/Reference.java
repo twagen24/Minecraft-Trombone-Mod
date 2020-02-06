@@ -8,4 +8,5 @@ public class Reference {
     public static final String CLIENT_PROXY_CLASS = "at.twageneder.trombonemod.proxy.ClientProxy";
     public static final String COMMON_PROXY_CLASS = "at.twageneder.trombonemod.proxy.CommonProxy";
     public static final String TROMBONE_NAME_JSON = "item.trombone";
+    public static final String MOUTH_PIECE_NAME_JSON = "item.mouth_piece";
 }

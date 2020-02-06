@@ -11,6 +11,7 @@ public class ItemBase extends Item implements ModelInterface {
         super.setUnlocalizedName(name);
         super.setRegistryName(name);
         super.setCreativeTab(CreativeTabs.MATERIALS);
+        super.setMaxStackSize(1);
 
         ModItems.ITEMS.add(this);
     }
