@@ -1,7 +1,11 @@
 package at.twageneder.trombonemod.init;
 
 import at.twageneder.trombonemod.models.ItemBase;
+import net.minecraft.client.Minecraft;
 import net.minecraft.item.Item;
+import net.minecraft.item.ItemStack;
+import net.minecraft.util.ResourceLocation;
+import org.lwjgl.opengl.GL11;
 
 import java.util.ArrayList;
 import java.util.List;

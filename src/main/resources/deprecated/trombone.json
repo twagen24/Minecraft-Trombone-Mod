@@ -1,4 +1,6 @@
 {
+  "custom": { "flip-v": true },
+  "model": "trombonemod:trombone",
   "parent": "item/generated",
   "textures": {
     "layer0": "trombonemod:items/trombone"
